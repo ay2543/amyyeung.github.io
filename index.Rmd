@@ -1,3 +1,7 @@
+---
+title: "Home"
+---
+
 ## Welcome!
 
 Hello! I am Amy Yeung, a second-year MPH candidate at Columbia University.
