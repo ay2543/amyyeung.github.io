@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 ## Welcome!
-<img src="images/headshot.jpg" style="width:30%">
+<p style="text-align:center;"><img src="images/headshot.jpg" style="width:30%"></p>
 
 Hello! I am Amy Yeung, a second-year MPH candidate at Columbia University.
 
