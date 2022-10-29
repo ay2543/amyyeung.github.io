@@ -6,6 +6,7 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "Resume"
+      icon: fa-file
       href: resume.html
   right:
     - icon: fa-envelope fa-lg
