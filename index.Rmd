@@ -4,6 +4,17 @@ title: "Amy Yeung's Website"
 
 *Welcome to my website! I'm Amy Yeung.*
 
+#### What's on this website:
+
+* A quick [summary](index.html) about me (below)
+* My [resume](resume.html)
+* My [publications](publication.html)
+* A [dashboard](dashboard.html) using 2007 NOAA National Climatic Data Center Data 
+* Ways to connect with me via [GitHub](http://github.com/ay2543/), [email](mailto:amy715@gmail.com), [LinkedIn](http://linkedin.com/in/amy715)
+
+*Everything mentioned above is also available on the navigation bar at the top of the page.*
+*The link to the GitHub repository for this website is [here](https://github.com/ay2543/amyyeung.github.io)*
+
 <p style="text-align:center;"><img src="images/headshot.jpg" style="width:30%"></p>
 
 
@@ -16,6 +27,9 @@ title: "Amy Yeung's Website"
 **How I do things:** I start with the fundamentals (making sure I understand everything), then branch outwards. Once I start, I won't stop until I'm satisfied.
 
 **Other things I enjoy:** Yoga, meditation, learning about the life stories of strangers
+
+
+
 
 
 
