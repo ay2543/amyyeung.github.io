@@ -31,7 +31,7 @@ ny_noaa =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Scatterplot of snowfall against maximum temperature for days with reported snowfall
+### Scatterplot of snowfall against maximum temperature for days with reported snowfall in 2007
 
 ```{r}
 ny_noaa %>% 
@@ -51,10 +51,19 @@ month = factor(month, levels = month.name, ordered = TRUE)
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Pattern of minimum temperature in 2007
 
 ```{r}
-
+ny_noaa %>% 
+  mutate(
+month = factor(month, levels = month.name, ordered = TRUE)
+) %>% 
+  plot_ly(
+    x = ~month,
+    y = ~tmin,
+    type = "box",
+    color = ~month
+  )
 ```
 
 ### Chart C
