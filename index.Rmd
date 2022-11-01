@@ -2,13 +2,20 @@
 title: "Amy Yeung's Website"
 ---
 
+*Welcome to my website! I'm Amy Yeung.*
 
 <p style="text-align:center;"><img src="images/headshot.jpg" style="width:30%"></p>
 
 
-Hello! I am Amy Yeung, a second-year MPH candidate at Columbia University.
 
-Click [here](resume.html) to view my resume
+
+**Who I am:** A second-year Master of Public Health student at Columbia, passionate about using data to understand patterns and make decisions in the health industry. Originally from Hong Kong.
+
+**Things I care about:** Data-driven solutions, health equity, transparent communication, constructive feedback, interdisciplinary collaboration
+
+**How I do things:** I start with the fundamentals (making sure I understand everything), then branch outwards. Once I start, I won't stop until I'm satisfied.
+
+**Other things I enjoy:** Yoga, meditation, learning about the life stories of strangers
 
 
 
