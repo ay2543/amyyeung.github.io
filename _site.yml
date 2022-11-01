@@ -8,6 +8,9 @@ navbar:
     - text: "Resume"
       icon: fa-file
       href: resume.html
+    - text: "Publications"
+      icon: fa-light fa-pen
+      href: publication.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:amy715@gmail.com
