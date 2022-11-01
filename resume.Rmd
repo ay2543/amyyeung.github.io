@@ -78,5 +78,10 @@ title: "Resume"
 * Organized 4 recruitment talks, led the interview and selection process from over 200 candidates to over 30 members, and facilitated an induction camp to introduce members to organizational and chapter goals
 * Supervised my team of 6 members to facilitate monthly events and coaching sessions to boost organizational knowledge, raise social awareness and empower members in alignment with the targets set by the Vice President
 
+# Skills and Languages
+
+**Skills:** R, Python, SAS, SQL, STATA, Microsoft Office (Excel, PowerPoint, Word), Git, Final Cut Pro
+
+**Languages:** English (Native), Cantonese (Fluent) Mandarin (Fluent), Spanish (Intermediate)
 
 Click [here](Amy Yeung Resume.pdf) for my full resume.
