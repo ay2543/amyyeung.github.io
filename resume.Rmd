@@ -9,7 +9,8 @@ title: "Resume"
 ### Columbia University Mailman School of Public Health (May 2023)
 *New York, NY*
 
-* Master of Public Health in Epidemiology (MPH)
+**Master of Public Health in Epidemiology (MPH)**
+
 * GPA: 4.1
 * Certificate in Applied Biostatistics & Public Health Data Science
 * Leadership: Bloom Mentoring (2022), Healthcare Data Analytics (2022), Mailman Consulting Club (2022) 
@@ -18,13 +19,16 @@ title: "Resume"
 ### The University of Hong Kong (May 2021)
 *Hong Kong*
 
-* Bachelor of Biomedical Sciences (BBiomedSc)
+**Bachelor of Biomedical Sciences (BBiomedSc)**
+
 * GPA: 3.7 (First Class Honours)
 * Awards: Dean’s Honours List (2020-2021), APRU Global Health Virtual Case Competition (2019, 2021) 
 * Leadership: AIESEC in HKU (2017-2019), Biomedical Sciences Society (2017-2018)
 
 ### University of California at Berkeley (May 2020)
 *Berkeley, CA*
+
+**Study Abroad**
 
 * GPA: 3.9
 * Exchange year, took graduate-level public health classes
