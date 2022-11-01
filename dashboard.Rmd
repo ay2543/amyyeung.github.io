@@ -14,10 +14,18 @@ library(plotly)
 
 data("ny_noaa")
 
+## Changed units, restricted data to 2007 only
+
 ny_noaa = 
   ny_noaa %>% 
   separate(date, into = c("year", "month", "day"), sep = "-") %>% 
-  mutate(month = month.name[as.numeric(month)])
+  mutate(
+    month = month.name[as.numeric(month)],
+    tmax = as.numeric(tmax), 
+         tmin = as.numeric(tmin) / 10,
+         tmax = tmax / 10,
+         prcp = prcp / 10) %>% 
+  filter(year == 2007)
 ```
 
 Column {data-width=650}
