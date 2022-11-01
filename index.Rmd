@@ -16,6 +16,8 @@ title: "Amy Yeung's Website"
 
 *The link to the GitHub repository for this website is [here](https://github.com/ay2543/amyyeung.github.io)*.
 
+
+## About me
 <p style="text-align:center;"><img src="images/headshot.jpg" style="width:30%"></p>
 
 
