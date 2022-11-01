@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-
+*Click [here](Amy Yeung Resume.pdf) for my full resume as a PDF.*
 
 # Education
 
@@ -84,4 +84,4 @@ title: "Resume"
 
 **Languages:** English (Native), Cantonese (Fluent) Mandarin (Fluent), Spanish (Intermediate)
 
-Click [here](Amy Yeung Resume.pdf) for my full resume.
+
