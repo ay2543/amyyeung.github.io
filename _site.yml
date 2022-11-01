@@ -11,6 +11,9 @@ navbar:
     - text: "Publications"
       icon: fa-light fa-pen
       href: publication.html
+    - text: "NOAA Dashboard"
+      icon: fa-solid fa-chart-line
+      href: dashboard.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:amy715@gmail.com
