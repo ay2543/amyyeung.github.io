@@ -8,6 +8,8 @@ title: "Amy Yeung's Website"
 
 Hello! I am Amy Yeung, a second-year MPH candidate at Columbia University.
 
+Click [here](resume.html) to view my resume
+
 
 
 
