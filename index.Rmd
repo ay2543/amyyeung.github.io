@@ -13,7 +13,8 @@ title: "Amy Yeung's Website"
 * Ways to connect with me via [GitHub](http://github.com/ay2543/), [email](mailto:amy715@gmail.com), [LinkedIn](http://linkedin.com/in/amy715)
 
 *Everything mentioned above is also available on the navigation bar at the top of the page.*
-*The link to the GitHub repository for this website is [here](https://github.com/ay2543/amyyeung.github.io)*
+
+*The link to the GitHub repository for this website is [here](https://github.com/ay2543/amyyeung.github.io)*.
 
 <p style="text-align:center;"><img src="images/headshot.jpg" style="width:30%"></p>
 
@@ -24,7 +25,7 @@ title: "Amy Yeung's Website"
 
 **Things I care about:** Data-driven solutions, health equity, transparent communication, constructive feedback, interdisciplinary collaboration
 
-**How I do things:** I start with the fundamentals (making sure I understand everything), then branch outwards. Once I start, I won't stop until I'm satisfied.
+**How I do things:** I start at the core (making sure I understand the fundamentals), then branch outwards, while consistently communicating my progress and exchanging feedback. Usually on the hunt for more efficient/innovative approaches.
 
 **Other things I enjoy:** Yoga, meditation, learning about the life stories of strangers
 
