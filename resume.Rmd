@@ -3,3 +3,7 @@ title: "Resume"
 ---
 
 ## This is my resume page
+
+
+
+Click [here](Amy Yeung Resume.pdf) for my full resume.
