@@ -1,5 +1,5 @@
 ---
-title: "NYC Restaurant Inspection Dashboard"
+title: "2007 NOAA National Climatic Data Center Dashboard"
 output: 
   flexdashboard::flex_dashboard:
     orientation: columns
@@ -31,10 +31,21 @@ ny_noaa =
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Chart A
+### Scatterplot of snowfall against maximum temperature for days with reported snowfall
 
 ```{r}
-
+ny_noaa %>% 
+  mutate(
+month = factor(month, levels = month.name, ordered = TRUE)
+) %>% 
+  filter(snow !=0) %>% 
+  plot_ly(
+    x = ~tmax,
+    y = ~snow,
+    type = "scatter", mode = "markers",
+    alpha = 0.4,
+    color = ~month
+  )
 ```
 
 Column {data-width=350}
