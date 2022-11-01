@@ -56,8 +56,8 @@ Column {data-width=350}
 ```{r}
 ny_noaa %>% 
   mutate(
-month = factor(month, levels = month.name, ordered = TRUE)
-) %>% 
+    month = factor(month, levels = month.name, ordered = TRUE)
+    ) %>% 
   plot_ly(
     x = ~month,
     y = ~tmin,
@@ -66,9 +66,21 @@ month = factor(month, levels = month.name, ordered = TRUE)
   )
 ```
 
-### Chart C
+### Number of recorded snow days by month in 2007
 
 ```{r}
-
+ny_noaa %>% 
+  mutate(
+    month = factor(month, levels = month.name, ordered = TRUE)
+    ) %>% 
+  filter(!is.na(snow) & snow!=0) %>% 
+  group_by(month) %>% 
+  summarise(n_snow = length(snow)) %>% 
+  plot_ly(
+    x = ~month,
+    y = ~n_snow,
+    color = ~month,
+    type = "bar"
+  )
 ```
 
