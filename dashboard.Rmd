@@ -12,7 +12,12 @@ library(tidyverse)
 library(p8105.datasets)
 library(plotly)
 
-data("rest_inspec")
+data("ny_noaa")
+
+ny_noaa = 
+  ny_noaa %>% 
+  separate(date, into = c("year", "month", "day"), sep = "-") %>% 
+  mutate(month = month.name[as.numeric(month)])
 ```
 
 Column {data-width=650}
