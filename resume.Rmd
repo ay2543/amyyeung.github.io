@@ -1,5 +1,10 @@
 ---
 title: "Resume"
+output:
+  html_document:
+      theme: readable
+      toc: true
+      toc_float: true
 ---
 
 *Click [here](Amy Yeung Resume.pdf) for my full resume as a PDF.*
