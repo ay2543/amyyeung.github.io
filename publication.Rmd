@@ -1,15 +1,21 @@
 ---
-title: "Publications"
+title: "Projects"
 ---
 
-Here is a compilation of publications that I have been involved in:
+Here is a compilation of projects that I have been involved in:
 
 **Research articles:**
 
 * [The incubation period distribution of coronavirus disease 2019 (COVID-19): a systematic review and meta-analysis](https://academic.oup.com/cid/article/73/12/2344/6297425?login=true)
 * [Serial intervals and case isolation delays for COVID-19: a systematic review and meta-analysis](https://academic.oup.com/cid/article/74/4/685/6284329?login=true)
 * [COVID-19 transmission in Hong Kong despite universal masking](https://pubmed.ncbi.nlm.nih.gov/33895227/)
+* [Insights into COVID-19 epidemiology and control from temporal changes in serial interval distributions in Hong Kong (preprint)](https://www.medrxiv.org/content/10.1101/2022.08.29.22279351v1)
+* [Time-varying transmission heterogeneity of SARS and COVID-19 in Hong Kong (pre-print)](https://www.researchsquare.com/article/rs-1407962/v1)
 
 **Other articles:**
 
 * [First FDA-Approved Diagnostic Agent to Detect Tau Tangles in Alzheimer’s Patients](https://www.beingpatient.com/first-fda-approved-diagnostic-agent-to-detect-tau-tangles-in-alzheimers-patients/?fbclid=IwAR2_hl1YvQu6tnSGVoEy8Elr3oRKoXGQcKT0piYdZvONlEWGvMqQk_72hfU)
+
+**Research projects:**
+
+* [Analysis of neighborhood walkability and health outcomes in the US](https://ay2543.github.io/walkability.io/)

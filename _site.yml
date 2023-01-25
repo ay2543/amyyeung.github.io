@@ -8,7 +8,7 @@ navbar:
     - text: "Resume"
       icon: fa-file
       href: resume.html
-    - text: "Publications"
+    - text: "Projects"
       icon: fa-light fa-pen
       href: publication.html
     - text: "NOAA Dashboard"
